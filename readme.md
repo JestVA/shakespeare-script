@@ -13,3 +13,7 @@ It can only do so in the presence of someone observing the output (hence partici
 But it's rapidly expanding with each new write stream iteration. Indeed, `while monkeys can type` anything that can happen will happen, and everything that has ever happened will be logged for eternity.
 Much like our Universe (which I believe is digital), converging towards limit of spacetime, the information as it grows has no reason not to be more than the sum of its parts. Want to wrtei Shakespeare, or have the bite representation of your selfie that you took today? Leave the stringGenerator crunching and at some point it will happen. Again, and again and again. 
 We can only be active at the outskirts of present and the rest is just a tail. We are observing ourselves and can't think or feel that it is different. By looking at the Universe, reaching far to the galaxies and stars and through the dark matter of space, we are learning to look in the mirror of the information system that we live in. A digital Universe that has not other option than output the log for whoever writer, author needs to experience life. And manifest itself.
+
+## UTF-8 encoded string visualisation of > 10,000 characters
+
+![](./messages/utf-8-string-visualisation.png)
